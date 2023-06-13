@@ -1,2 +1,2 @@
 # odin-recipes
-First project for TOP
+This is my first project for OTP and is a simple webpage for recipes. For this phase of my Recipe Page project, I'm going to be using HTML to build out and present information. Later on, I'll use CSS to style the project. When this phase of the project is complete, I should be able to use basic HTML commands confidently.
